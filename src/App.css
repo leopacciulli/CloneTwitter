@@ -1,0 +1,36 @@
+
+.old {
+  background: #e6eff0;  
+}
+
+.new {
+  background: #15202b;
+}
+
+.oldLayout {
+  position: absolute;
+  top: 4px;
+  left: 20px;
+  z-index: 9999;
+  background: #15202b;
+  font-weight: bold;
+  color: #fff;
+  border-radius: 99px;
+  padding: 10px 15px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.newLayout {
+  position: absolute;
+  top: 4px;
+  left: 20px;
+  z-index: 9999;
+  background: #1da1f2;
+  font-weight: bold;
+  color: #fff;
+  border-radius: 99px;
+  padding: 10px 15px;
+  font-size: 14px;
+  cursor: pointer;
+}
