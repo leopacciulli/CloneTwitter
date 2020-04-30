@@ -4,6 +4,8 @@
 
 <h3 align="center">Layouts twitter </h3>
 
+---
+
 ### :hammer_and_wrench: Projeto:
 - O projeto desenvolvido com html e css puro junto a uma aula assistida da 🚀 Rocketseat onde foi desenvolvido o layout do Twitter, sendo a construção de uma tela estática, com foco no ensino do #Flexbox.
 
