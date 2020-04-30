@@ -1,8 +1,8 @@
+<h1 align="center">Layouts twitter </h1>
+
 <h1 align="center">
   <img alt="Twitter" src="./src/assets/tweet.gif" />
 </h1>
-
-<h3 align="center">Layouts twitter </h3>
 
 ---
 
